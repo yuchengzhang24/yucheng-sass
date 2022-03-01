@@ -1,0 +1,25 @@
+.nav {
+  width: 15%;
+  min-width: 140px;
+  padding-top: 35px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+  color: $primary-color;
+}
+
+a:link {
+  color: $primary-color;
+  text-decoration: none;
+}
+
+a:visited {
+  color: $primary-color;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $primary-color;
+  text-decoration: underline;
+}
+
